@@ -404,7 +404,7 @@ ${tz} Melanggar peraturan di atas dapat mendapatkan sanksi seperti banned/block 
 ☞ *THX•TO* [ 6 ]
 ${tz} *${ownername}*
 ${tz} *NAYLA [ OTHER ]*
-${tz} *LORD RIYAN*
+${tz} *Ragil*
 ${tz} *LOLKILLERS*
 ${tz} *ADIWAJSHING*
 ${tz} *WHATSAPP*`

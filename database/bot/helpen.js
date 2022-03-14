@@ -408,7 +408,7 @@ ${tz} Violating the rules above can get sanctions such as banned/block user
 ☞ *THX•TO* [ 6 ]
 ${tz} *${ownername}*
 ${tz} *NAYLA [ OTHER ]*
-${tz} *LORD RIYAN*
+${tz} *Ragil*
 ${tz} *LOLKILLERS*
 ${tz} *ADIWAJSHING*
 ${tz} *WHATSAPP*`
